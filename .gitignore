@@ -1,0 +1,14 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+venv
+media
+__pycache__
+article_prompt.txt
+.bash_history
+.cache
+.jupyter
+.local
+.python_history
